@@ -72,10 +72,17 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
+        title: "湖南师范大学",
+        href: "http://www.hunnu.edu.cn/"
     },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
+        title: "上海交通大学",
+        href: "http://www.sjtu.edu.cn/"
+    },{
+        title: "上海交大系统生物医学研究院",
+        href: "http://scsb.sjtu.edu.cn/"
+    },{
+        title: "Github",
+        href: "https://github.com/"
     }
+
 ]

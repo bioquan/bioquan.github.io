@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contribute
-permalink: /contribute/
+title: Article
+permalink: /article/
 ---
 
 1,[Guo, Y. 9 , Xu, Q. 9 , Canzio, D., Shou, J., Li, J., Gorkin, D. U., ... & Wu, Q. (2015). CRISPR Inversion of CTCF Sites Alters Genome Topology and Enhancer/Promoter Function. Cell, 162(4), 900-910. (9 Co-first author)](http://www.sciencedirect.com/science/article/pii/S0092867415009150)
@@ -9,13 +9,17 @@ permalink: /contribute/
 Summary   
 
 &#160; &#160; &#160; &#160;CTCF and the associated cohesin complex play a central role in insulator function and higher-order chromatin organization of mammalian genomes. Recent studies identified a correlation between the orientation of CTCF-binding sites (CBSs) and chromatin loops. To test the functional significance of this observation, we combined CRISPR/Cas9-based genomic-DNA-fragment editing with chromosome-conformation-capture experiments to show that the location and relative orientations of CBSs determine the specificity of long-range chromatin looping in mammalian genomes, using protocadherin (Pcdh) and β-globin as model genes. Inversion of CBS elements within the Pcdh enhancer reconfigures the topology of chromatin loops between the distal enhancer and target promoters and alters gene-expression patterns. Thus, although enhancers can function in an orientation-independent manner in reporter assays, in the native chromosome context, the orientation of at least some enhancers carrying CBSs can determine both the architecture of topological chromatin domains and enhancer/promoter specificity. These findings reveal how 3D chromosome architecture can be encoded by linear genome sequences.
-***
+
+
+
 2, [Jia, Z., Guo, Y., Tang, Y., Xu, Q., Li, B., & Wu, Q. (2014). Regulation of the Protocadherin Celsr3 Gene and Its Role in Globus Pallidus Development and Connectivity. Molecular and cellular biology, 34(20), 3895-3910.](http://mcb.asm.org/content/34/20/3895.short)
 
-ABSTRACT
+Abstract
 
 &#160; &#160; &#160; &#160;The globus pallidus (GP) is a central component of basal ganglia whose malfunctions cause a variety of neuropsychiatric disorders as well as cognitive impairments in neurodegenerative diseases such as Parkinson's disease. Here we report that the protocadherin gene Celsr3 is regulated by the insulator CCCTC-binding factor (CTCF) and the repressor neuron-restrictive silencer factor (NRSF, also known as REST) and is required for the development and connectivity of GP. Specifically, CTCF/cohesin and NRSF inhibit the expression of Celsr3 through specific binding to its promoter. In addition, we found that the Celsr3 promoter interacts with CTCF/cohesin-occupied neighboring promoters. In Celsr3 knockout mice, we found that the ventral GP is occupied by aberrant calbindin-positive cholinergic neurons ectopic from the nucleus basalis of Meynert. Furthermore, the guidepost cells for thalamocortical axonal development are missing in the caudal GP. Finally, axonal connections of GP with striatum, subthalamic nucleus, substantia nigra, and raphe are compromised. These data reveal the essential role of Celsr3 in GP development in the basal forebrain and shed light on the mechanisms of the axonal defects caused by the Celsr3 deletion.
-***
+
+
+
 3, [Li, J., Shou, J., Guo, Y., Tang, Y., Wu, Y., Jia, Z., Zhai, Y., Cheng, Z., Xu, Q., & Wu, Q. (2015). Efficient inversions and duplications of mammalian regulatory DNA elements and gene clusters by CRISPR/Cas9. Journal of molecular cell biology, 2015 7: 284-298.](http://jmcb.oxfordjournals.org/content/7/4/284)
 
 Abstract

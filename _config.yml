@@ -3,7 +3,7 @@ title: Spring Blog
 SEOTitle: 许泉的博客 | Spring Blog
 header-img: img/home-bg.jpg
 email: qxuchn@gmail.com
-description: "关于前端与设计、黑客与画家 | 许泉，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Spring许泉 的个人博客，与你一起发现更大的世界。"
+description: "生物信息，生物统计，计算生物 | 许泉，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Spring许泉 的个人博客，与你一起发现更大的世界。"
 keyword: "许泉, Spring, 许泉的博客, Spring Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, python, linux, R, shell"
 url: "http://biospring.xyz"
 baseurl: ""
@@ -12,8 +12,8 @@ baseurl: ""
 
 # SNS settings
 RSS: false
-weibo_username:     quanchn
-zhihu_username:     spring xu
+weibo_username:     u/5319493962
+zhihu_username:     spring-xu
 github_username:    bioquan
 #twitter_username:  huxpro
 #facebook_username:  huxpro
@@ -58,7 +58,7 @@ ga_domain: biospring.xyz
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
+sidebar-about-description: "科学的世界这么大，怎么会没有我的地盘呢。地上的路那么多，总有一条是属于我的路。"
 sidebar-avatar: /img/avatar-spring.jpg     # use absolute URL.
 
 
@@ -75,13 +75,7 @@ friends: [
         title: "天镶的博客",
         href: "http://lingyu.wang/"
     },{
-        title: "Luke的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
         title: "SmdCn's Blog",
         href: "http://blog.smdcn.net"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
     }
 ]

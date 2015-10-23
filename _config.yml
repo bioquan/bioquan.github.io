@@ -1,7 +1,7 @@
 # Site settings
-title: Swift
-description: A clean minimal Theme for Jekyll
-email: pranav@maangalabs.com
+title: XuQuan
+description: 许泉的博客
+email: xuquan@sjtu.edu.cn
 baseurl: "http://bioquan.github.io/"
 url: "http://bioquan.github.io/" # the base hostname & protocol for your site
 #favicon
